@@ -5,6 +5,5 @@
 - 📫 To reach me mail me to sauravsir.whatsapp@gmail.com
 
 <!---
-Saurav-WB/Saurav-WB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
