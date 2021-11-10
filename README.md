@@ -4,6 +4,3 @@
 - 💞️ I'm looking for Students weak in Maths, reading in Class VI, VII, or VIII
 - 📫 To reach me mail me to sauravsir.whatsapp@gmail.com
 
-<!---
-
---->
